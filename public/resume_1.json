@@ -1,0 +1,119 @@
+{
+    "executive_summary": {
+      "name": "Aditi Vinit Gade",
+      "education": "B.Tech in Computer Science and Engineering (AI & ML) at Vishwakarma Institute of Technology, Pune",
+      "experience": "Academic projects and extracurricular activities in AI, ML, IoT, and software development",
+      "key_strengths": ["Technical expertise in AI/ML", "Strong problem-solving skills", "Collaboration & leadership"],
+      "career_aspiration": "Seeking opportunities in AI, ML, and software development with a focus on innovation"
+    },
+    "skills_assessment": {
+      "technical": {
+        "Programming Languages": ["C (Data Structures)", "Java", "R"],
+        "Databases": ["MySQL"],
+        "AI & ML": ["Machine Learning", "Artificial Intelligence"],
+        "IoT & Embedded": ["Arduino", "ESP32", "NodeMCU"],
+        "Software Tools": ["Google Colab", "Android Studio", "Figma", "R Studio"]
+      },
+      "soft_skills": ["Collaboration", "Communication", "Problem Solving", "Critical Thinking", "Active Listening"],
+      "radar_chart": {
+        "Programming": 8,
+        "Data Analytics": 7,
+        "AI/ML": 9,
+        "Database Management": 7,
+        "Software Development": 8,
+        "Soft Skills": 9
+      }
+    },
+    "career_progression": {
+      "education": [
+        {
+          "degree": "B.Tech in CSE (AI & ML)",
+          "institute": "Vishwakarma Institute of Technology, Pune",
+          "cgpa": 8.39
+        },
+        {
+          "level": "HSC",
+          "institute": "Matoshri Junior College",
+          "score": "83%"
+        },
+        {
+          "level": "ICSE",
+          "institute": "Ryan International School",
+          "score": "97%"
+        }
+      ],
+      "projects": [
+        {
+          "title": "AI Based Question Answer Generator",
+          "technologies": ["Python", "Google Colab", "APIs"],
+          "description": "Developed an AI-powered question-answer generator using speech-to-text and NLP."
+        },
+        {
+          "title": "Airline Satisfactory Analysis",
+          "technologies": ["R", "R Studio", "Kaggle"],
+          "description": "Implemented ML models for customer satisfaction prediction."
+        }
+      ],
+      "extracurricular": [
+        {
+          "role": "Content and Curation Coordinator",
+          "organization": "Computer Society of India (CSI)"
+        },
+        {
+          "role": "Volunteer",
+          "organization": "Saksharta Academy Foundation"
+        }
+      ]
+    },
+    "strength_weakness_indicators": {
+      "strengths": [
+        "Strong AI/ML knowledge",
+        "Good problem-solving and analytical skills",
+        "Excellent teamwork and leadership"
+      ],
+      "weaknesses": [
+        "Limited industry experience",
+        "Needs more real-world project exposure"
+      ]
+    },
+    "role_fit_percentage": {
+      "AI Engineer": 85,
+      "Software Developer": 80,
+      "Data Scientist": 75,
+      "IoT Engineer": 70
+    },
+    "learning_development_tracking": {
+      "current_focus": ["AI/ML", "IoT", "Software Development"],
+      "recommended_skills": ["Deep Learning", "Cloud Computing", "Big Data Analytics"]
+    },
+    "detailed_skills_breakdown": {
+      "programming_languages": {
+        "C (Data Structures)": 8,
+        "Java": 7,
+        "R": 6
+      },
+      "AI/ML": {
+        "Machine Learning": 9,
+        "Artificial Intelligence": 8
+      },
+      "Database": {
+        "MySQL": 7
+      }
+    },
+    "timeline": {
+      "education": [
+        {"year": "Current", "event": "Pursuing B.Tech in AI & ML"},
+        {"year": "Previous", "event": "Completed HSC and ICSE"}
+      ],
+      "projects": [
+        {"year": "2024", "event": "AI Based Question Answer Generator"},
+        {"year": "2023", "event": "Airline Satisfactory Analysis"}
+      ]
+    },
+    "hr_dashboard_insights": {
+      "top_skills": ["AI/ML", "Software Development", "Problem Solving"],
+      "growth_potential": "High potential in AI/ML and Data Science",
+      "internship_suitability": ["AI/ML Intern", "Software Developer Intern"]
+    }
+  }
+  
