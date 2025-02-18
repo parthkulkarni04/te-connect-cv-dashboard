@@ -1,0 +1,149 @@
+{
+    "executive_summary": {
+      "name": "Myle Rufus Shyam",
+      "current_role": "Business Intelligence (BI) Developer",
+      "location": "Hyderabad, India",
+      "experience": "2+ years in Business Intelligence, specializing in Tableau, SQL, and data visualization.",
+      "key_strengths": [
+        "Expertise in Tableau and SQL",
+        "Strong data modeling and BI lifecycle management",
+        "Cross-functional collaboration",
+        "Problem-solving and innovative thinking"
+      ],
+      "career_aspiration": "Seeking advanced roles in Business Intelligence and Data Analytics to drive strategic insights using Tableau, Power BI, and data modeling."
+    },
+    "skills_assessment": {
+      "technical": {
+        "Data Visualization": ["Tableau", "Power BI", "Qlik Sense"],
+        "Data Engineering": ["Azure Databricks", "Alteryx", "ETL"],
+        "Programming": ["SQL", "R"],
+        "Business Intelligence": ["Dashboarding", "Data Modeling", "KPI Tracking"],
+        "Project Management": ["Agile Methodology", "Project Delivery"]
+      },
+      "soft_skills": [
+        "Collaboration",
+        "Problem-Solving",
+        "Stakeholder Communication",
+        "Critical Thinking",
+        "Data-Driven Decision Making"
+      ],
+      "radar_chart": {
+        "Data Visualization": 9,
+        "SQL & Database Management": 8,
+        "Business Intelligence": 9,
+        "Programming": 7,
+        "Project Management": 8,
+        "Soft Skills": 9
+      }
+    },
+    "career_progression": {
+      "education": [
+        {
+          "degree": "B.Tech",
+          "institute": "VNR Vignana Jyothi Institute of Engineering and Technology",
+          "years": "2018 - 2022"
+        }
+      ],
+      "work_experience": [
+        {
+          "role": "Business Intelligence Analyst",
+          "company": "AION Tech Solutions Limited",
+          "duration": "03/2022 - Present",
+          "location": "Hyderabad, India"
+        },
+        {
+          "role": "Business Intelligence Analyst (Deployment)",
+          "company": "Levarus",
+          "duration": "11/2024 - 01/2025",
+          "location": "Hyderabad, India",
+          "key_contributions": [
+            "Configured Tableau Server for efficient data refreshes and scheduling.",
+            "Developed advanced data models to improve query performance.",
+            "Conducted training on Tableau and ETL best practices."
+          ]
+        },
+        {
+          "role": "Business Intelligence Analyst (Deployment)",
+          "company": "Air India",
+          "duration": "06/2023 - 10/2024",
+          "location": "Gurgaon, India",
+          "key_contributions": [
+            "Designed KPIs and BI solutions for data-driven decisions.",
+            "Optimized Tableau dashboards for structured layout and emphasis.",
+            "Administered Tableau Server and managed user settings."
+          ]
+        },
+        {
+          "role": "Business Intelligence Analyst (Deployment)",
+          "company": "Dr. Reddy’s Laboratories",
+          "duration": "12/2022 - 06/2023",
+          "location": "Hyderabad, India",
+          "key_contributions": [
+            "Developed Tableau dashboards for sales and profit analysis.",
+            "Increased North American market profits by 25% through data insights.",
+            "Improved Tableau Server efficiency for business reporting."
+          ]
+        }
+      ]
+    },
+    "strength_weakness_indicators": {
+      "strengths": [
+        "Strong Tableau and SQL expertise",
+        "Excellent business intelligence lifecycle management",
+        "Data-driven problem-solving skills",
+        "Effective communication and collaboration"
+      ],
+      "weaknesses": [
+        "Limited experience in cloud-based BI tools",
+        "Needs exposure to advanced AI-driven analytics"
+      ]
+    },
+    "role_fit_percentage": {
+      "BI Developer": 90,
+      "Data Analyst": 85,
+      "Data Engineer": 75,
+      "Project Manager": 70
+    },
+    "learning_development_tracking": {
+      "current_focus": ["Tableau", "SQL", "Business Intelligence"],
+      "recommended_skills": ["Cloud BI (AWS/Azure)", "Advanced Python for Data Science", "Big Data Analytics"]
+    },
+    "detailed_skills_breakdown": {
+      "data_visualization": {
+        "Tableau": 9,
+        "Power BI": 7,
+        "Qlik Sense": 6
+      },
+      "data_engineering": {
+        "Azure Databricks": 7,
+        "Alteryx": 8,
+        "ETL Processes": 8
+      },
+      "programming": {
+        "SQL": 9,
+        "R": 7
+      },
+      "business_intelligence": {
+        "Data Modeling": 8,
+        "Dashboard Development": 9,
+        "KPI Management": 8
+      }
+    },
+    "timeline": {
+      "education": [
+        { "year": "2018-2022", "event": "Completed B.Tech in Engineering" }
+      ],
+      "work_experience": [
+        { "year": "2022-Present", "event": "BI Analyst at AION Tech Solutions" },
+        { "year": "2024", "event": "Deployment at Levarus" },
+        { "year": "2023-2024", "event": "Deployment at Air India" },
+        { "year": "2022-2023", "event": "Deployment at Dr. Reddy’s Laboratories" }
+      ]
+    },
+    "hr_dashboard_insights": {
+      "top_skills": ["Tableau", "SQL", "Data Visualization", "Business Intelligence"],
+      "growth_potential": "Strong candidate for senior BI roles",
+      "internship_suitability": ["BI Developer", "Data Analyst"]
+    }
+  }
+  

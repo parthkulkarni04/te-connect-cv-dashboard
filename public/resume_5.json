@@ -1,0 +1,149 @@
+{
+    "executive_summary": {
+      "name": "Shubham Pangarkar",
+      "current_role": "Business Intelligence (BI) Analyst",
+      "location": "Pune, Maharashtra",
+      "experience": "5+ years in Business Intelligence and Analytics, with expertise in data analysis, modeling, and visualization.",
+      "key_strengths": [
+        "Expertise in Power BI, SQL, and Advanced Excel",
+        "Strong data modeling and ETL lifecycle management",
+        "Ability to translate complex data into actionable insights",
+        "Experience in strategic reporting and business intelligence solutions"
+      ],
+      "career_aspiration": "Seeking leadership roles in Business Intelligence to drive data-driven decision-making and optimize analytics solutions."
+    },
+    "skills_assessment": {
+      "technical": {
+        "Data Visualization": ["Power BI", "Advanced Excel", "Tableau"],
+        "Data Analysis": ["Data Modeling", "Statistical Analysis", "Data Processing"],
+        "Programming": ["SQL", "MySQL", "Python"],
+        "ETL & Data Management": ["ETL Processes", "Data Cleaning", "SSIS", "Data Integration"],
+        "Project Management": ["Jira", "Agile", "SDLC"],
+        "Documentation": ["Business Requirement Document (BRD)", "Functional Requirement Document (FRD)"]
+      },
+      "soft_skills": [
+        "Problem-Solving",
+        "Analytical Thinking",
+        "Team Collaboration",
+        "Strong Communication"
+      ],
+      "radar_chart": {
+        "Data Visualization": 9,
+        "SQL & Database Management": 9,
+        "Business Intelligence": 9,
+        "Programming": 8,
+        "ETL & Data Processing": 9,
+        "Soft Skills": 8
+      }
+    },
+    "career_progression": {
+      "education": [
+        {
+          "degree": "Bachelor of Engineering",
+          "institute": "Savitribai Phule Pune University",
+          "year": "2018"
+        },
+        {
+          "degree": "Diploma in Engineering",
+          "institute": "Government Polytechnic, Jalna",
+          "year": "2015"
+        }
+      ],
+      "work_experience": [
+        {
+          "role": "Business Intelligence Analyst",
+          "company": "Brillioz Infotech Pvt. Ltd.",
+          "duration": "Aug 2021 – Present",
+          "location": "Nagpur, India",
+          "key_contributions": [
+            "Led requirement gathering and created BRDs with KPIs.",
+            "Managed ETL processes for data cleaning, modeling, and validation.",
+            "Developed Power BI and Excel dashboards using DAX and Power Query.",
+            "Achieved a 25% improvement in data accuracy and a 20% boost in inventory efficiency."
+          ]
+        },
+        {
+          "role": "Business Consultant",
+          "company": "Self-Employed",
+          "duration": "Dec 2020 – July 2021",
+          "location": "Pune, India",
+          "key_contributions": [
+            "Worked with startups to enhance business strategies and profitability.",
+            "Conducted market research using Google Analytics and Excel.",
+            "Increased online visibility by 25% and improved customer engagement by 20%."
+          ]
+        },
+        {
+          "role": "Project Engineer",
+          "company": "Amrith Cooling System Pvt. Ltd.",
+          "duration": "Oct 2018 – Aug 2020",
+          "location": "Pune, India",
+          "key_contributions": [
+            "Implemented project tracking systems using Excel and Google Sheets.",
+            "Developed real-time operational and performance reports.",
+            "Improved project efficiency by 20% and reduced completion time by 15%."
+          ]
+        }
+      ]
+    },
+    "strength_weakness_indicators": {
+      "strengths": [
+        "Strong Power BI and SQL expertise",
+        "Excellent problem-solving and analytical skills",
+        "Experience in business intelligence strategy and data-driven decision-making"
+      ],
+      "weaknesses": [
+        "Limited exposure to cloud-based BI solutions",
+        "Needs advanced knowledge in AI-driven analytics"
+      ]
+    },
+    "role_fit_percentage": {
+      "BI Developer": 90,
+      "Data Analyst": 85,
+      "Data Engineer": 80,
+      "Project Manager": 75
+    },
+    "learning_development_tracking": {
+      "current_focus": ["Power BI", "SQL", "ETL Processes"],
+      "recommended_skills": ["Cloud BI (AWS/Azure)", "Big Data Analytics", "Python for AI-driven BI"]
+    },
+    "detailed_skills_breakdown": {
+      "data_visualization": {
+        "Power BI": 9,
+        "Tableau": 7,
+        "Advanced Excel": 9
+      },
+      "data_analysis": {
+        "Data Modeling": 9,
+        "Statistical Analysis": 8,
+        "Data Processing": 9
+      },
+      "programming": {
+        "SQL": 9,
+        "MySQL": 8,
+        "Python": 7
+      },
+      "ETL & Data Management": {
+        "ETL Processes": 9,
+        "Data Cleaning": 9,
+        "SSIS": 8
+      }
+    },
+    "timeline": {
+      "education": [
+        { "year": "2018", "event": "Completed B.E. in Engineering" },
+        { "year": "2015", "event": "Completed Diploma in Engineering" }
+      ],
+      "work_experience": [
+        { "year": "2021-Present", "event": "BI Analyst at Brillioz Infotech" },
+        { "year": "2020-2021", "event": "Business Consultant (Self-Employed)" },
+        { "year": "2018-2020", "event": "Project Engineer at Amrith Cooling System" }
+      ]
+    },
+    "hr_dashboard_insights": {
+      "top_skills": ["Power BI", "SQL", "ETL", "Data Visualization"],
+      "growth_potential": "Strong candidate for senior BI and analytics roles",
+      "internship_suitability": ["BI Developer", "Data Analyst"]
+    }
+  }
+  

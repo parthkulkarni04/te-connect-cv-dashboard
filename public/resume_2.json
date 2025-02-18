@@ -1,0 +1,145 @@
+{
+    "executive_summary": {
+      "name": "Ankith C Shenoy",
+      "current_role": "Business Intelligence Analyst",
+      "location": "Bengaluru, India",
+      "experience": "5.2 years in Business Intelligence, specializing in database management, data analysis, and visualization.",
+      "key_strengths": [
+        "Expertise in SQL, Tableau, and Power BI",
+        "Strong data modeling and ETL knowledge",
+        "Ability to translate business needs into actionable insights",
+        "Experience in dashboard migration and optimization"
+      ],
+      "career_aspiration": "Seeking opportunities to lead BI initiatives, optimize data solutions, and drive business intelligence strategies."
+    },
+    "skills_assessment": {
+      "technical": {
+        "Data Visualization": ["Tableau", "Power BI", "Microstrategy"],
+        "Data Engineering": ["ETL", "Data Preparation", "Data Cleansing"],
+        "Programming": ["SQL", "DAX"],
+        "Business Intelligence": ["Dashboard Designing", "Data Modeling", "KPI Tracking"],
+        "Tools & Software": ["Microsoft Excel"]
+      },
+      "soft_skills": [
+        "Excellent communication",
+        "Ability to work under pressure",
+        "Quick learning and adaptability",
+        "Analytical and problem-solving mindset"
+      ],
+      "radar_chart": {
+        "Data Visualization": 9,
+        "SQL & Database Management": 9,
+        "Business Intelligence": 8,
+        "Programming": 7,
+        "Project Management": 7,
+        "Soft Skills": 8
+      }
+    },
+    "career_progression": {
+      "education": [
+        {
+          "degree": "B.E. in Electronics and Communications Engineering",
+          "institute": "Don Bosco Institute of Technology",
+          "years": "2014 - 2018"
+        }
+      ],
+      "work_experience": [
+        {
+          "role": "Business Intelligence Analyst",
+          "company": "Travtech Software Pvt. Ltd.",
+          "duration": "01/2022 - Present",
+          "location": "Bangalore, India",
+          "key_contributions": [
+            "Analyzed data to generate insights and build dashboards in Tableau.",
+            "Migrated 30+ Microstrategy dashboards to Tableau.",
+            "Implemented access control and row-level security.",
+            "Monitored dashboard schedule refresh and data extracts."
+          ]
+        },
+        {
+          "role": "Business Data Analyst",
+          "company": "Anakage Technologies Private Limited",
+          "duration": "11/2019 - 12/2021",
+          "location": "Bangalore, India",
+          "key_contributions": [
+            "Collaborated with program managers to understand business needs.",
+            "Developed optimized data marts using dimensional modeling.",
+            "Designed and implemented ETL processes for data loading.",
+            "Created analytical dashboards summarizing KPIs for automation solutions.",
+            "Restricted dashboard accessibility based on user roles."
+          ]
+        },
+        {
+          "role": "Junior Engineer",
+          "company": "Mindtree Limited",
+          "duration": "11/2018 - 08/2019",
+          "location": "Bangalore, India",
+          "key_contributions": [
+            "Trained in infrastructure technologies such as cloud, VMs, and databases.",
+            "Maintained a retail analytics solution for an international restaurant.",
+            "Developed dashboards and data entry forms to streamline business processes.",
+            "Implemented multilingual dashboards to improve user accessibility."
+          ]
+        }
+      ]
+    },
+    "strength_weakness_indicators": {
+      "strengths": [
+        "Proficiency in Tableau, Power BI, and SQL",
+        "Experience in migrating dashboards and managing BI lifecycle",
+        "Strong business understanding and stakeholder communication",
+        "Hands-on experience in data modeling and ETL processes"
+      ],
+      "weaknesses": [
+        "Limited exposure to cloud-based BI platforms",
+        "Needs experience in advanced machine learning analytics"
+      ]
+    },
+    "role_fit_percentage": {
+      "BI Developer": 90,
+      "Data Analyst": 85,
+      "Data Engineer": 80,
+      "Project Manager": 70
+    },
+    "learning_development_tracking": {
+      "current_focus": ["SQL", "Tableau", "Power BI", "Data Modeling"],
+      "recommended_skills": ["Cloud BI (AWS/Azure)", "Big Data Analytics", "Python for Data Science"]
+    },
+    "detailed_skills_breakdown": {
+      "data_visualization": {
+        "Tableau": 9,
+        "Power BI": 8,
+        "Microstrategy": 7
+      },
+      "data_engineering": {
+        "ETL Processes": 8,
+        "Data Preparation": 8,
+        "Data Cleansing": 7
+      },
+      "programming": {
+        "SQL": 9,
+        "DAX": 7
+      },
+      "business_intelligence": {
+        "Data Modeling": 8,
+        "Dashboard Development": 9,
+        "KPI Management": 8
+      }
+    },
+    "timeline": {
+      "education": [
+        { "year": "2014-2018", "event": "Completed B.E. in Electronics and Communications Engineering" }
+      ],
+      "work_experience": [
+        { "year": "2022-Present", "event": "BI Analyst at Travtech Software" },
+        { "year": "2019-2021", "event": "Business Data Analyst at Anakage Technologies" },
+        { "year": "2018-2019", "event": "Junior Engineer at Mindtree" }
+      ]
+    },
+    "hr_dashboard_insights": {
+      "top_skills": ["Tableau", "SQL", "Data Visualization", "Power BI"],
+      "growth_potential": "Strong candidate for senior BI roles",
+      "internship_suitability": ["BI Developer", "Data Analyst"]
+    }
+  }
+  

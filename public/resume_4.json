@@ -1,0 +1,142 @@
+{
+    "executive_summary": {
+      "name": "Mahesh Jadhav",
+      "current_role": "Business Intelligence Specialist",
+      "location": "Pune, Maharashtra",
+      "experience": "4+ years in Business Intelligence, Data Analytics, and Project Management.",
+      "key_strengths": [
+        "Expertise in SQL, data modeling, and BI reporting",
+        "Strong dashboard development and data visualization skills",
+        "Experience in ETL processes and maintaining data quality",
+        "Stakeholder collaboration and Agile project management"
+      ],
+      "career_aspiration": "Seeking opportunities in Business Intelligence to develop strategic insights and optimize data-driven decision-making."
+    },
+    "skills_assessment": {
+      "technical": {
+        "Data Visualization": ["Tableau", "Power BI", "Slide Deck"],
+        "Data Analysis": ["SQL", "Excel", "Python", "Pattern Recognition"],
+        "ETL & Data Management": ["ETL Processes", "Data Transformation", "Data Integrity"],
+        "Project Management": ["Agile Methodologies", "Jira", "Zoho Sprint"],
+        "Stakeholder Engagement": ["User Story Creation", "Impact Analysis"]
+      },
+      "soft_skills": [
+        "Problem-Solving",
+        "Collaboration",
+        "Communication",
+        "Analytical Thinking"
+      ],
+      "radar_chart": {
+        "Data Visualization": 9,
+        "SQL & Database Management": 9,
+        "Business Intelligence": 8,
+        "Programming": 7,
+        "ETL & Data Processing": 9,
+        "Soft Skills": 8
+      }
+    },
+    "career_progression": {
+      "education": [
+        {
+          "degree": "Bachelor of Engineering",
+          "institute": "MIT College of Engineering, Pune",
+          "year": "2018"
+        }
+      ],
+      "work_experience": [
+        {
+          "role": "Business Intelligence Specialist",
+          "company": "Houzeo India Pvt. Ltd.",
+          "duration": "Apr 2022 – Present",
+          "location": "India",
+          "key_contributions": [
+            "Developed SQL queries, data models, and BI reports.",
+            "Designed dashboards and visualizations for business insights.",
+            "Managed ETL processes and data pipelines for reporting accuracy.",
+            "Collaborated with leadership to align BI solutions with business goals.",
+            "Maintained data integrity and optimized reporting workflows."
+          ]
+        },
+        {
+          "role": "Project Manager",
+          "company": "Ebaco India Pvt. Ltd.",
+          "duration": "Mar 2020 – Apr 2022",
+          "location": "India",
+          "key_contributions": [
+            "Gathered client requirements for sports infrastructure projects.",
+            "Designed and presented project solutions based on customer needs.",
+            "Supervised execution of sports infrastructure projects to ensure quality."
+          ]
+        },
+        {
+          "role": "Software Trainer",
+          "company": "CADD Centre Design Studio",
+          "duration": "Jan 2019 – Mar 2020",
+          "location": "India",
+          "key_contributions": [
+            "Taught engineering software and conducted curriculum development.",
+            "Performed market research to align course content with industry needs."
+          ]
+        }
+      ]
+    },
+    "strength_weakness_indicators": {
+      "strengths": [
+        "Proficiency in SQL and Business Intelligence tools",
+        "Strong problem-solving and data visualization skills",
+        "Experience in Agile methodologies and stakeholder collaboration"
+      ],
+      "weaknesses": [
+        "Limited exposure to AI-driven analytics",
+        "Needs deeper experience in cloud-based BI solutions"
+      ]
+    },
+    "role_fit_percentage": {
+      "BI Developer": 90,
+      "Data Analyst": 85,
+      "Data Engineer": 80,
+      "Project Manager": 75
+    },
+    "learning_development_tracking": {
+      "current_focus": ["SQL", "Data Visualization", "ETL Processes"],
+      "recommended_skills": ["Cloud BI (AWS/Azure)", "AI-driven Data Analytics", "Advanced Python"]
+    },
+    "detailed_skills_breakdown": {
+      "data_visualization": {
+        "Tableau": 9,
+        "Power BI": 8,
+        "Slide Deck": 7
+      },
+      "data_analysis": {
+        "SQL": 9,
+        "Python": 7,
+        "Excel": 8
+      },
+      "ETL & Data Management": {
+        "ETL Processes": 9,
+        "Data Transformation": 8,
+        "Data Integrity": 9
+      },
+      "project_management": {
+        "Agile Methodologies": 8,
+        "Jira": 7,
+        "Zoho Sprint": 7
+      }
+    },
+    "timeline": {
+      "education": [
+        { "year": "2018", "event": "Completed B.E. in Engineering" }
+      ],
+      "work_experience": [
+        { "year": "2022-Present", "event": "BI Specialist at Houzeo India" },
+        { "year": "2020-2022", "event": "Project Manager at Ebaco India" },
+        { "year": "2019-2020", "event": "Software Trainer at CADD Centre" }
+      ]
+    },
+    "hr_dashboard_insights": {
+      "top_skills": ["SQL", "Tableau", "ETL", "Data Visualization"],
+      "growth_potential": "Strong candidate for senior BI and analytics roles",
+      "internship_suitability": ["BI Developer", "Data Analyst"]
+    }
+  }
+  

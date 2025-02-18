@@ -1,0 +1,179 @@
+{
+    "executive_summary": {
+      "name": "Rohit Hanchate",
+      "current_role": "AI/ML Computational Science Senior Analyst",
+      "location": "Raichur, Karnataka",
+      "experience": "3+ years in Data Engineering, AI/ML, and Software Development.",
+      "key_strengths": [
+        "Expertise in Python, PySpark, SQL, and cloud platforms (AWS, GCP, Azure)",
+        "Experience in data pipeline automation and CI/CD implementation",
+        "Strong data migration and transformation capabilities",
+        "Skilled in database management and cloud-based data warehousing"
+      ],
+      "career_aspiration": "Seeking opportunities to enhance AI/ML data engineering capabilities and develop scalable, automated data solutions."
+    },
+    "skills_assessment": {
+      "technical": {
+        "Programming Languages": ["Python", "PySpark", "SQL"],
+        "Cloud Platforms": ["AWS", "GCP", "Azure"],
+        "Data Engineering Tools": ["Apache Airflow", "Jenkins", "DBeaver"],
+        "Databases": ["SQL", "MySQL", "Snowflake", "Oracle SQL"],
+        "Version Control": ["Git", "GitHub", "CI/CD Pipelines"],
+        "Metadata & Data Governance": ["Alation", "MetadataHub"]
+      },
+      "soft_skills": [
+        "Problem-Solving",
+        "Collaboration",
+        "Analytical Thinking",
+        "Stakeholder Communication"
+      ],
+      "radar_chart": {
+        "Data Engineering": 9,
+        "Cloud Computing": 8,
+        "Database Management": 9,
+        "Programming": 8,
+        "Data Governance": 7,
+        "Soft Skills": 8
+      }
+    },
+    "career_progression": {
+      "education": [
+        {
+          "degree": "B.E. in Electronics & Communication Engineering",
+          "institute": "Bangalore Technological Institute",
+          "year": "2018 - 2021"
+        },
+        {
+          "degree": "Diploma in Electronics & Communication Engineering",
+          "institute": "Govt. Polytechnic College, Raichur",
+          "year": "2015 - 2018"
+        }
+      ],
+      "work_experience": [
+        {
+          "role": "AI/ML Computational Science Senior Analyst",
+          "company": "Accenture Solutions Pvt. Ltd.",
+          "duration": "2024 - Present",
+          "location": "Bangalore, India"
+        },
+        {
+          "role": "AI/ML Computational Science Analyst",
+          "company": "Accenture Solutions Pvt. Ltd.",
+          "duration": "2022 - 2024",
+          "location": "Bangalore, India"
+        },
+        {
+          "role": "Software Engineer - 1",
+          "company": "Bridgei2i Analytics Solutions Pvt. Ltd.",
+          "duration": "2021 - 2022",
+          "location": "Bangalore, India"
+        }
+      ]
+    },
+    "projects": [
+      {
+        "title": "Streamsets to Databricks Migration",
+        "domain": "Life Science",
+        "duration": "2023 - Present",
+        "key_contributions": [
+          "Led data ingestion, transformation, and loading using AWS Glue for ETL processes.",
+          "Developed automation scripts for data validation to ensure high data quality.",
+          "Optimized data pipelines using Databricks, PySpark, SQL, and Delta Tables.",
+          "Implemented Apache Airflow for workflow automation.",
+          "Used AWS Athena, Redshift, and S3 for querying and data warehousing."
+        ]
+      },
+      {
+        "title": "Teradata to Snowflake Migration",
+        "domain": "Banking",
+        "duration": "2022 - 2023",
+        "key_contributions": [
+          "Supported Business Architect and Data Modeler with metadata capture.",
+          "Performed automated data profiling in Snowflake for Credit Card Pod.",
+          "Implemented duplication validation using PySpark for efficient data migration.",
+          "Established reference domains for Personal Loan Pod.",
+          "Managed metadata using Alation and MetadataHub for data governance."
+        ]
+      },
+      {
+        "title": "Logistics Speed Delivery",
+        "domain": "Palantir Foundry",
+        "duration": "2021 - 2022",
+        "key_contributions": [
+          "Developed scalable ETL processes using PySpark and Python.",
+          "Designed and maintained data transformation workflows within Palantir Foundry.",
+          "Implemented CI/CD practices for seamless data integration.",
+          "Enhanced data transparency using Data Lineage tools.",
+          "Collaborated with developers to build dashboards for performance monitoring."
+        ]
+      }
+    ],
+    "strength_weakness_indicators": {
+      "strengths": [
+        "Proficiency in cloud-based data engineering",
+        "Strong automation and workflow orchestration skills",
+        "Experience in database migration and optimization"
+      ],
+      "weaknesses": [
+        "Limited exposure to AI-driven analytics beyond ML pipeline integration",
+        "Needs deeper experience in real-time streaming data solutions"
+      ]
+    },
+    "role_fit_percentage": {
+      "Data Engineer": 95,
+      "Cloud Engineer": 85,
+      "AI/ML Engineer": 80,
+      "Software Developer": 70
+    },
+    "learning_development_tracking": {
+      "current_focus": ["Cloud Data Engineering", "CI/CD Automation", "Databricks Optimization"],
+      "recommended_skills": ["Real-time Data Streaming", "Advanced AI/ML Integration", "Edge Computing"]
+    },
+    "detailed_skills_breakdown": {
+      "programming_languages": {
+        "Python": 9,
+        "PySpark": 8,
+        "SQL": 9
+      },
+      "cloud_platforms": {
+        "AWS": 9,
+        "GCP": 8,
+        "Azure": 7
+      },
+      "data_engineering_tools": {
+        "Apache Airflow": 9,
+        "Jenkins": 8,
+        "DBeaver": 7
+      },
+      "databases": {
+        "SQL": 9,
+        "MySQL": 8,
+        "Snowflake": 9,
+        "Oracle SQL": 7
+      }
+    },
+    "timeline": {
+      "education": [
+        { "year": "2021", "event": "Completed B.E. in Electronics & Communication Engineering" },
+        { "year": "2018", "event": "Completed Diploma in Electronics & Communication Engineering" }
+      ],
+      "work_experience": [
+        { "year": "2024-Present", "event": "Senior Analyst at Accenture Solutions" },
+        { "year": "2022-2024", "event": "Analyst at Accenture Solutions" },
+        { "year": "2021-2022", "event": "Software Engineer at Bridgei2i Analytics" }
+      ]
+    },
+    "certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Databricks Certified Associate Developer for Apache Spark",
+      "Palantir Foundry Data Engineer Associate",
+      "Microsoft Certified: Azure Fundamentals",
+      "Google Cloud Certified Associate Cloud Engineer"
+    ],
+    "hr_dashboard_insights": {
+      "top_skills": ["Data Engineering", "Cloud Computing", "Database Management", "CI/CD Automation"],
+      "growth_potential": "Strong candidate for senior data engineering and cloud architect roles",
+      "internship_suitability": ["Data Engineer", "Cloud Engineer"]
+    }
+  }
+  
