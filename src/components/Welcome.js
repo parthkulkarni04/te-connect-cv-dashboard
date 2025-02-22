@@ -2,8 +2,11 @@
 
 import React from "react";
 import { motion } from "framer-motion";
+import { useRouter } from "next/navigation";
 
 const Welcome = () => {
+  const router = useRouter();
+
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -13,12 +16,12 @@ const Welcome = () => {
     >
       {/* Logo Image */}
       <motion.img
-        src="/logo.png" // Ensure the file is in the 'public' folder
+        src="/logo.png"
         alt="TE Connectivity Logo"
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
-        className="w-32 h-auto mb-4" // Adjust size as needed
+        className="w-32 h-auto mb-4"
       />
 
       {/* Welcome Text */}
@@ -40,6 +43,16 @@ const Welcome = () => {
       >
         Select a candidate from the sidebar to view their detailed profile
       </motion.p>
+
+      {/* New Job Description Button */}
+      <motion.button
+        whileHover={{ scale: 1.05 }}
+        whileTap={{ scale: 0.95 }}
+        onClick={() => router.push("/new-job")}
+        className="mt-6 px-6 py-3 bg-orange-600 text-white font-bold rounded-lg shadow-md hover:bg-orange-700"
+      >
+        Add New Job Description
+      </motion.button>
     </motion.div>
   );
 };
